@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="jcalendar-1.4">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/jcalendar-1.4.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/mysql-connector-j-9.2.0.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/ResultSet2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/mysql-connector-j-9.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/ResultSet2xml.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/ResultSet2xml.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/ResultSet2xml.jar!/src" />
     </SOURCES>
   </library>
 </component>

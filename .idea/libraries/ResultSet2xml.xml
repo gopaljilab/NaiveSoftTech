@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="ResultSet2xml">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/ResultSet2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/ResultSet2xml.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Downloads/NativeSoftTech/Java/External Libraries/ResultSet2xml.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/NativeSoftTechs/Java/External Libraries/ResultSet2xml.jar!/src" />
     </SOURCES>
   </library>
 </component>
